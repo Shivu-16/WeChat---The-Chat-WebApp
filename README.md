@@ -1,6 +1,6 @@
-# WiChat 2.0
+# WeChat
 
-WiChat 2.0 is a feature-rich MERN stack real-time chat application, designed for seamless communication with a modern and intuitive user experience. It supports individual, media sharing, and advanced messaging features.
+WeChat is a feature-rich MERN stack real-time chat application, designed for seamless communication with a modern and intuitive user experience. It supports individual, media sharing, and advanced messaging features.
 
 ## Table of Contents
 
@@ -10,9 +10,8 @@ WiChat 2.0 is a feature-rich MERN stack real-time chat application, designed for
 - [Environment Variables](#environment-variables)
 - [Folder Structure](#folder-structure)
 - [Features in Detail](#features-in-detail)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [ScreenShots](#screenshots)
+
 
 ## Features
 
@@ -156,20 +155,3 @@ frontend/
 
 ...
 
-## Contributing
-
-Contributions are welcome! Follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes and commit them (`git commit -m 'Add feature-name'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-For any queries or suggestions, feel free to reach out!
