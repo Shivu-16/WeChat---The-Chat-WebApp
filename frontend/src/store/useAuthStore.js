@@ -6,7 +6,7 @@ import { BACKEND_BASE_URL } from "../lib/constants";
 import useChatStore from "./useChatStore";
 
 const BASE_URL =
-  import.meta.env.MODE === "development" ? BACKEND_BASE_URL : "/https://wechat-the-chat-webapp.onrender.com";
+  import.meta.env.MODE === "development" ? BACKEND_BASE_URL : "https://wechat-the-chat-webapp.onrender.com";
 
 const useAuthStore = create((set, get) => ({
   authUser: null,
