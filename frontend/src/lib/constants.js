@@ -42,4 +42,4 @@ export const PREVIEW_MESSAGES = [
   },
 ];
 
-export const BACKEND_BASE_URL = "https://wechat-server-nine.vercel.app/";
+export const BACKEND_BASE_URL = "https://wechat-the-chat-webapp.onrender.com";
